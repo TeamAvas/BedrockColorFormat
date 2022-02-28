@@ -1,0 +1,7 @@
+name: BedrockColorFormat
+version: '${project.version}'
+main: skh6075.bedrockcolorformat.BedrockColorFormat
+api-version: 1.18
+authors: [ skh6075 ]
+description: Color Symbol plugin for Geyser Bedrock players
+website: https://github.com/skh6075
